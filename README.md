@@ -1,6 +1,6 @@
 TITLE: Laptop Request Catalog Items
 
-Team Id:NM2025TMID05277
+Team Id: NM2025TMID05277
 
 Team Size: 4
 
